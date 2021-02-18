@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="372" viewBox="0 0 375 372">
+  <defs>
+    <polygon id="bg-curvy-mobile2-a" points="0 0 375 0 375 141 0 141"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 2)">
+      <mask id="bg-curvy-mobile2-b" fill="#fff">
+        <use xlink:href="#bg-curvy-mobile2-a"/>
+      </mask>
+      <path fill="#181F2B" fill-rule="nonzero" d="M0,128.937 C22.708,127.268 44.049,113.247 64.024,86.874 C93.986,47.314 87.497,32.756 137.242,46.312 C186.988,59.868 182.75,50.989 214.736,19.664 C246.721,-11.661 267.482,-4.493 286.981,33.576 C306.48,71.646 342.128,80.84 375.376,94.82 C397.541,104.14 397.541,1390.867 375.376,3955 L0,3955 L0,128.937 Z" mask="url(#bg-curvy-mobile2-b)"/>
+    </g>
+    <rect width="375" height="229" y="143" fill="#181F2B"/>
+  </g>
+</svg>
